@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\AverageGrades\AverageGrades\bin\Debug\AverageGrades.exe.config
+D:\Visual Studio Projects\AverageGrades\AverageGrades\bin\Debug\AverageGrades.exe
+D:\Visual Studio Projects\AverageGrades\AverageGrades\bin\Debug\AverageGrades.pdb
+D:\Visual Studio Projects\AverageGrades\AverageGrades\obj\Debug\AverageGrades.exe
+D:\Visual Studio Projects\AverageGrades\AverageGrades\obj\Debug\AverageGrades.pdb

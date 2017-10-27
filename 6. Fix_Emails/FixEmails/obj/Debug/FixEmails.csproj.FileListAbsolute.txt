@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\FixEmails\FixEmails\bin\Debug\FixEmails.exe.config
+D:\Visual Studio Projects\FixEmails\FixEmails\bin\Debug\FixEmails.exe
+D:\Visual Studio Projects\FixEmails\FixEmails\bin\Debug\FixEmails.pdb
+D:\Visual Studio Projects\FixEmails\FixEmails\obj\Debug\FixEmails.exe
+D:\Visual Studio Projects\FixEmails\FixEmails\obj\Debug\FixEmails.pdb

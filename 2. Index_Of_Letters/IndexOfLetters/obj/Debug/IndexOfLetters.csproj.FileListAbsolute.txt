@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\IndexOfLetters\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\Visual Studio Projects\IndexOfLetters\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\Visual Studio Projects\IndexOfLetters\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\Visual Studio Projects\IndexOfLetters\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\Visual Studio Projects\IndexOfLetters\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

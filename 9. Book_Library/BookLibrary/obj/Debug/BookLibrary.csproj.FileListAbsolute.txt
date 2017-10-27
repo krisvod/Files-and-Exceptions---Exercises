@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+D:\Visual Studio Projects\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+D:\Visual Studio Projects\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+D:\Visual Studio Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+D:\Visual Studio Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb

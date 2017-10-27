@@ -1,0 +1,5 @@
+D:\Visual Studio Projects\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\MaxSequenceOfEqualNumbers.exe.config
+D:\Visual Studio Projects\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\MaxSequenceOfEqualNumbers.exe
+D:\Visual Studio Projects\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\bin\Debug\MaxSequenceOfEqualNumbers.pdb
+D:\Visual Studio Projects\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\MaxSequenceOfEqualNumbers.exe
+D:\Visual Studio Projects\MaxSequenceOfEqualNumbers\MaxSequenceOfEqualNumbers\obj\Debug\MaxSequenceOfEqualNumbers.pdb

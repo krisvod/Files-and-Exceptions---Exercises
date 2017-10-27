@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\MinerTask\MinerTask\bin\Debug\MinerTask.exe.config
+D:\Visual Studio Projects\MinerTask\MinerTask\bin\Debug\MinerTask.exe
+D:\Visual Studio Projects\MinerTask\MinerTask\bin\Debug\MinerTask.pdb
+D:\Visual Studio Projects\MinerTask\MinerTask\obj\Debug\MinerTask.exe
+D:\Visual Studio Projects\MinerTask\MinerTask\obj\Debug\MinerTask.pdb
+D:\Visual Studio Projects\MinerTask\MinerTask\obj\Debug\MinerTask.csprojResolveAssemblyReference.cache

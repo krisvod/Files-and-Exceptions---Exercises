@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\BookLibraryModification\BookLibraryModification\bin\Debug\BookLibraryModification.exe.config
+D:\Visual Studio Projects\BookLibraryModification\BookLibraryModification\bin\Debug\BookLibraryModification.exe
+D:\Visual Studio Projects\BookLibraryModification\BookLibraryModification\bin\Debug\BookLibraryModification.pdb
+D:\Visual Studio Projects\BookLibraryModification\BookLibraryModification\obj\Debug\BookLibraryModification.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\BookLibraryModification\BookLibraryModification\obj\Debug\BookLibraryModification.exe
+D:\Visual Studio Projects\BookLibraryModification\BookLibraryModification\obj\Debug\BookLibraryModification.pdb
